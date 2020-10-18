@@ -1,8 +1,0 @@
-.so tmac/cz.tmac
-.so tmac/subpoints.me
-.so tmac/settings.tmac
-.so tmac/refer.me
-.so tmac/picture.me
-
-.++C ""
-.+c ""
